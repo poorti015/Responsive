@@ -1,2 +1,2 @@
 # Responsive
-Responsive site for capstone
+Responsive site for capstone project
